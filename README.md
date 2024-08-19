@@ -16,7 +16,7 @@
 <div align ="center">
   <a href="https://github.com/bf-gonzalez/ComiCraft" target="_blank"><img src="https://res.cloudinary.com/dyeji7bvg/image/upload/v1724044259/co_ok028k.png" width="400" alt="ComiCraft"></a>
   <p>
-  <a href="https://github.com/bf-gonzalez/ComiCraft" target="_blank">
+  <a href="https://comiccraft.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
   </p>
   <p>ComiCraft is a WEB APP where users can sign up to read their favorite comics within the app by acquiring a monthly or annual subscription. It also offers the possibility to upload their own comics for the community to read.</p>

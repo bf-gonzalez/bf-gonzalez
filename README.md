@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Gonzalez</h1>
-<img src = "https://res.cloudinary.com/dyeji7bvg/image/upload/v1724042448/Group_16_ujvuhp.png">
+<img src = "https://res.cloudinary.com/dyeji7bvg/image/upload/v1724182692/Group_16_1_zzxwta.png">
 <h3 align="center">A passionate back-end developer from Argentina.</h3>
 
 
